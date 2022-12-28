@@ -1,4 +1,8 @@
 This is my scratch code
 
+=======
+This is the frontend Code
+>>>>>>> 4e03e0b2b4bfe515ac2c677f9efe153a29d99f1a
 
-This is my Other frontend code
+
+This is the backend code
